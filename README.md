@@ -1,6 +1,6 @@
 <h2>💫 About Me</h2>
 
-<p>I'm <strong>Sriram G</strong>, a 2nd-year Computer Science student passionate about full-stack development and real-world problem solving.</p>
+<p>I'm <strong>Sriram G</strong>, a 3nd-year Computer Science student passionate about full-stack development and real-world problem solving.</p>
 
 <ul>
   <li>🚀 Just completed my 
