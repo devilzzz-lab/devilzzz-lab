@@ -1,58 +1,19 @@
-<h2>💫 About Me</h2>
+# 💫 About Me:
+# Hi there, I'm Sriram G 👋<br><br>🎓 **3rd Year Computer Science Student** | 🚀 **Aspiring DevOps Engineer & Cloud Enthusiast**<br><br>---<br><br>## 🔧 Skills & Tools<br>- **Operating Systems:** Linux (Advanced), macos <br>- **Version Control:** Git & GitHub  <br>- **CI/CD:** Jenkins  <br>- **Cloud:** AWS (EC2, VPC, Subnet, Internet Gateway, Route Tables, S3)  <br>- **Infrastructure as Code:** Terraform  <br>- **Monitoring:** Grafana, Prometheus  <br>- **Automation & Scripting:** Bash  <br><br>---<br><br>## 🏆 Projects & Learning Journey<br><br>### AWS Infrastructure Automation with Terraform  <br>Built a fully functional AWS cloud environment with VPC, Subnets, IGW, Route Tables, and EC2 instances — all automated with Terraform scripts using Infrastructure as Code principles.<br><br>### CI/CD Pipeline Automation with Jenkins  <br>Configured Jenkins pipelines to automate builds, tests, and deployments, speeding up the development lifecycle and reducing manual effort.<br><br>### Monitoring & Observability with Grafana & Prometheus  <br>Set up real-time monitoring dashboards and alerting with Grafana and Prometheus to track system health and performance metrics.<br><br>---<br><br>## 🌱 Currently Learning<br>- Kubernetes & Container Orchestration  <br>- Advanced AWS Services (EKS, Lambda)  <br>- Cloud Security Best Practices  <br><br>---<br><br>💬 Feel free to connect with me for collaborations or to discuss DevOps, cloud computing, and automation!<br><br>---<br><br>[![GitHub followers](https://img.shields.io/github/followers/devilzzz-lab?label=Follow&style=social)](https://github.com/devilzzz-lab)<br><br>
 
-<p>I'm <strong>Sriram G</strong>, a 3nd-year Computer Science student passionate about full-stack development and real-world problem solving.</p>
-
-<ul>
-  <li>🚀 Just completed my 
-    <strong>
-      <a href="https://github.com/devilzzz-lab/mern-voting-system-v1" target="_blank">MERN Voting System with Facial Detection</a>
-    </strong> 
-    <br/>
-    <a href="https://github.com/devilzzz-lab/mern-voting-system-v1">
-      <img src="https://img.shields.io/badge/MERN%20Voting%20App-Click%20Here-success?style=for-the-badge&logo=github" />
-    </a>
-  </li>
-  <li>✅ Released <strong>Version 1</strong> of the MERN Voting System</li>
-  <li>⚛️ Actively <strong>learning React.js</strong> and building dynamic UIs</li>
-  <li>🎯 Focused on writing clean, scalable code and building meaningful projects</li>
-</ul>
-
-<h3>📚 Tech I'm Exploring</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-</p>
-
-<p>Thanks for visiting! Feel free to check out my projects and connect with me!</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriramg-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srisuji0814@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sriramg-s) 
 
 # 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devilzzz-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devilzzz-lab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devilzzz-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=devilzzz-lab&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devilzzz-lab&limit=5&theme=dark&combine_all_yearly_contributions=true)
