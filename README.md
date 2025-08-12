@@ -14,7 +14,7 @@
 
   <h2>🔧 Skills & Tools</h2>
   <ul>
-    <li><strong>Operating Systems:</strong> Linux (Advanced)</li>
+    <li><strong>Operating Systems:</strong> Linux (Advanced), macOS</li>
     <li><strong>Version Control:</strong> Git & GitHub</li>
     <li><strong>CI/CD:</strong> Jenkins</li>
     <li><strong>Cloud:</strong> AWS (EC2, VPC, Subnet, Internet Gateway, Route Tables, S3)</li>
