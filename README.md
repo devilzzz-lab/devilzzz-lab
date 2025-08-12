@@ -8,7 +8,7 @@
 
   <h1>Hi there, I'm Sriram G 👋</h1>
 
-  <p><strong>3rd Year Computer Science Student</strong> | 🚀 <strong>Aspiring DevOps Engineer & Cloud Enthusiast</strong></p>
+  <p><strong>3rd Year Computer Science Student</strong> | <strong>Aspiring DevOps Engineer & Cloud Enthusiast</strong></p>
 
   <hr style="border-color: #444" />
 
@@ -38,7 +38,7 @@
 
   <hr style="border-color: #444" />
 
-  <h2>🌱 Currently Learning</h2>
+  <h2>Currently Learning</h2>
   <ul>
     <li>Kubernetes & Container Orchestration</li>
     <li>Advanced AWS Services (EKS, Lambda)</li>
