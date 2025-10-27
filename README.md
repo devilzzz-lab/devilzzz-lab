@@ -46,7 +46,7 @@
   <h2>Currently Learning</h2>
   <ul>
     <li>Kubernetes & Container Orchestration</li>
-    <li>Advanced AWS Services (EKS, Lambda)</li>
+    <li>Advanced AWS Services (Kubernets, LoadBalancers & AutoScaling Groups, Docker)</li>
     <li>Cloud Security Best Practices</li>
   </ul>
 
