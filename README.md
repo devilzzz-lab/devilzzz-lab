@@ -36,6 +36,11 @@
   <h3>Monitoring & Observability with Grafana & Prometheus</h3>
   <p>Set up real-time monitoring dashboards and alerting with Grafana and Prometheus to track system health and performance metrics.</p>
 
+   <h3>AWS Lambda Image Resizer</h3>
+  <p>Build a serverless image processing solution using AWS Lambda, S3, and API Gateway to automatically resize and optimize uploaded images in real-time.</p>
+
+
+
   <hr style="border-color: #444" />
 
   <h2>Currently Learning</h2>
