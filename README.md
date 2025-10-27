@@ -54,7 +54,7 @@
 
   <h2>🌐 Socials</h2>
   <p>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/sriramg-s" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <a href="https://linkedin.com/in/sriramg-s" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
     </a>
   </p>
