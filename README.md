@@ -17,7 +17,7 @@
     <li><strong>Operating Systems:</strong> Linux (Advanced), macOS</li>
     <li><strong>Version Control:</strong> Git & GitHub</li>
     <li><strong>CI/CD:</strong> Jenkins</li>
-    <li><strong>Cloud:</strong> AWS (EC2, Lambda, VPC, SQS, SNS, S3)</li>
+    <li><strong>Cloud:</strong> AWS (EC2, Lambda, VPC, SQS, SNS, S3, DynamoDb)</li>
     <li><strong>Infrastructure as Code:</strong> Terraform</li>
     <li><strong>Monitoring:</strong> Grafana, Prometheus</li>
     <li><strong>Automation & Scripting:</strong> Bash</li>
