@@ -76,15 +76,9 @@
 
   <h2>📊 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" style="max-width:100%;"/>
-  </p>
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=dark" alt="GitHub Streak" style="max-width:100%;" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&theme=dark&layout=compact" alt="Top Languages" />
-  </p>
-
+  
   <hr style="border-color: #444" />
 
   <h2>🏆 GitHub Trophies</h2>
