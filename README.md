@@ -35,7 +35,7 @@
 
   <h3>CloudOps Automation</h3>
   <p>
-  Built a complete CloudOps automation pipeline integrating AWS services, GitHub Webhooks CI/CD, containerized deployments, Kubernetes orchestration,centralized logging, and real-time monitoring. This
+  Built a complete CloudOps automation pipeline integrating AWS services (S3,DynamoDb,Lambda,SQS,SNS), GitHub Webhooks CI/CD, containerized deployments, Kubernetes orchestration,centralized logging, and real-time monitoring. This
   project focuses on reliability, scalability, and zero-downtime delivery using fully automated workflows.
   </p>
   
