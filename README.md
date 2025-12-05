@@ -28,21 +28,21 @@
   <hr style="border-color: #444" />
 
   <h2>🏆 Projects & Learning Journey</h2>
+  
 
   <h3>AWS Infrastructure Automation with Terraform</h3>
   <p>Built a fully functional AWS cloud environment with VPC, Subnets, IGW, Route Tables, and EC2 instances — all automated with Terraform scripts using Infrastructure as Code principles.</p>
 
-  <h3>CI/CD Pipeline Automation with Jenkins</h3>
-  <p>Configured Jenkins pipelines to automate builds, tests, and deployments, speeding up the development lifecycle and reducing manual effort.</p>
+  <h3>CloudOps Automation</h3>
+  <p>
+  Built a complete CloudOps automation pipeline integrating AWS services, GitHub Webhooks CI/CD, containerized deployments, Kubernetes orchestration,centralized logging, and real-time monitoring. This
+  project focuses on reliability, scalability, and zero-downtime delivery using fully automated workflows.
+  </p>
+  
+  <h3>AWS Lambda Image Resizer</h3>
+  <p>Built a serverless image processing solution using AWS Lambda, S3, and API Gateway to automatically resize and optimize uploaded images in real-time.</p>
 
-  <h3>Monitoring & Observability with Grafana & Prometheus</h3>
-  <p>Set up real-time monitoring dashboards and alerting with Grafana and Prometheus to track system health and performance metrics.</p>
-
-   <h3>AWS Lambda Image Resizer</h3>
-  <p>Build a serverless image processing solution using AWS Lambda, S3, and API Gateway to automatically resize and optimize uploaded images in real-time.</p>
-
-
-
+  
   <hr style="border-color: #444" />
 
   <h2>Currently Learning</h2>
