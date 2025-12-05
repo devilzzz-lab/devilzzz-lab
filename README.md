@@ -31,6 +31,9 @@ GitHub Webhooks, Jenkins CI/CD, Docker-based container builds, Kubernetes deploy
 and full Prometheus–Grafana monitoring.
 </p>
 
+<h3>AWS Lambda Image Resizer</h3>
+<p>Built a serverless image processing solution using AWS Lambda, S3 to automatically resize and optimize uploaded images in real-time.</p>
+
 <hr />
 
 <h2>Currently Learning</h2>
@@ -65,13 +68,7 @@ and full Prometheus–Grafana monitoring.
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=dark" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 <hr />
