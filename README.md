@@ -39,7 +39,7 @@
   </p>
   
   <h3>AWS Lambda Image Resizer</h3>
-  <p>Built a serverless image processing solution using AWS Lambda, S3, and API Gateway to automatically resize and optimize uploaded images in real-time.</p>
+  <p>Built a serverless image processing solution using AWS Lambda, S3 to automatically resize and optimize uploaded images in real-time.</p>
 
   
   <hr style="border-color: #444" />
