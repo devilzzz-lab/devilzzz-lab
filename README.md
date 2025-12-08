@@ -66,19 +66,6 @@ and full Prometheus–Grafana monitoring.
 
 <hr />
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=dark" alt="GitHub Streak" />
-</p>
-
-<hr />
-
-<h2>🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=devilzzz-lab&theme=radical" alt="GitHub Trophies" />
-</p>
-
-<hr />
 
 <h3>🔝 Top Contributed Repo</h3>
 <p>
