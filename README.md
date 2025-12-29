@@ -39,7 +39,7 @@ and full Prometheus–Grafana monitoring.
 <h2>Currently Learning</h2>
 <ul>
   <li>Kubernetes & Container Orchestration</li>
-  <li>Advanced AWS Services (EKS, Load Balancers, ASG)</li>
+  <li>Advanced AWS Services (Load Balancers,ASG)</li>
   <li>Cloud Security Best Practices</li>
 </ul>
 
