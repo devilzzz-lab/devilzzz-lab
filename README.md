@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Sriram G 👋</h1>
 
-<p><strong>3rd Year Computer Science Student</strong> | <strong>DevOps Engineer</strong></p>
+<p><strong>3rd Year Computer Science Student</strong> | <strong>Aspiring DevOps Engineer & Cloud Enthusiast</strong></p>
 
 <hr />
 
@@ -69,6 +69,15 @@ and full Prometheus–Grafana monitoring.
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+<hr />
+
+<h2>📊 GitHub Stats:</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramg-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramg-s&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramg-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <hr />
