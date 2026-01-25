@@ -75,9 +75,9 @@ and full Prometheus–Grafana monitoring.
 
 <h2>📊 GitHub Stats:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramg-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramg-s&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramg-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <hr />
