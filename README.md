@@ -23,31 +23,29 @@
 
 <h3>Multi-Cloud Deployment Automation</h3>
 <ul>
-  <li>Designed and deployed a production-grade two-tier web application with FastAPI backend and Next.js frontend</li>
-  <li>Implemented multi-cloud deployment across AWS ECS Fargate and Azure Container Apps</li>
-  <li>Built fully automated CI/CD pipelines using GitHub Actions for zero-touch deployments</li>
-  <li>Provisioned cloud infrastructure using Terraform with remote state management</li>
-  <li>Containerized services with Docker using multi-stage builds and non-root security</li>
-  <li>Configured production-grade monitoring dashboards with CloudWatch and Azure Monitor</li>
-  <li>Set up alerting with email notifications for CPU threshold violations</li>
-  <li>Validated load balancing and fault tolerance with zero-downtime resiliency testing</li>
+  <li>Production-grade two-tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
+  <li>Fully automated CI/CD using GitHub Actions, Docker multi-stage builds, CloudWatch + Azure Monitor dashboards</li>
+  <li>Validated ALB load balancing with zero-downtime resiliency testing<br/>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">DEVOPS-ASSIGNMENT</a>
+  </li>
 </ul>
 
 <h3>CloudOps Automation</h3>
 <ul>
-  <li>Built end-to-end DevOps automation workflow integrating multiple AWS services</li>
-  <li>Configured GitHub Webhooks to trigger Jenkins CI/CD pipelines automatically</li>
-  <li>Implemented Docker-based container builds and deployments to Kubernetes</li>
-  <li>Integrated AWS Lambda, S3, DynamoDB, SNS, and SQS for event-driven architecture</li>
-  <li>Set up centralized logging for application and infrastructure monitoring</li>
-  <li>Deployed Prometheus and Grafana for real-time metrics visualization</li>
+  <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event-driven architecture</li>
+  <li>GitHub Webhooks → Jenkins CI/CD → Docker → Kubernetes automated deployments</li>
+  <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">cloudops-automation</a>
+  </li>
 </ul>
 
 <h3>AWS Lambda Image Resizer</h3>
 <ul>
-  <li>Built serverless image processing solution using AWS Lambda and S3</li>
-  <li>Automated image resizing and optimization triggered by S3 upload events</li>
-  <li>Implemented real-time processing with cost-effective serverless architecture</li>
+  <li>Serverless image processing solution using AWS Lambda triggered by S3 uploads</li>
+  <li>Real-time image resizing and optimization with automatic thumbnail generation</li>
+  <li>Cost-effective serverless architecture with zero infrastructure management<br/>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/lambda-image-resizer" target="_blank">aws-lambda-image-resizer</a>
+  </li>
 </ul>
 
 <hr />
