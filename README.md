@@ -53,7 +53,6 @@
 <h2>Currently Learning</h2>
 <ul>
   <li>Amazon RDS</li>
-  <li>Advanced AWS Services (Load Balancers, ASG)</li>
   <li>Azure Fundamentals</li>
 </ul>
 
