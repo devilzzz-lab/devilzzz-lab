@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Sriram G 👋</h1>
 
-<p><strong>3rd Year Computer Science Student</strong> | <strong>Aspiring DevOps Engineer & Cloud Enthusiast</strong></p>
+<p><strong>3rd Year Computer Science Student</strong> | <strong>DevOps Engineer</strong></p>
 
 <hr />
 
