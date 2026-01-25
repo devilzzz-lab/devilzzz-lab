@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Sriram G 👋</h1>
 
-<p><strong>3rd Year Computer Science Student</strong> | <strong>DevOps Engineer</strong></p>
+<p><strong>3rd Year Computer Science Student</strong> | <strong>Aspiring DevOps Engineer & Cloud Enthusiast</strong></p>
 
 <hr />
 
@@ -10,15 +10,12 @@
   <li><strong>Version Control:</strong> Git & GitHub</li>
   <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
   <li><strong>Containerization:</strong> Docker</li>
-  <li><strong>Cloud:</strong></li>
-  <li style="text-indent: 20px;">1) <strong>AWS:</strong> EC2, ECS Fargate, Lambda, VPC, SQS, SNS, S3, DynamoDB, CloudWatch</li>
-  <li style="text-indent: 20px;">2) <strong>Azure:</strong> ACR, Container Apps, Azure Monitor</li>
+  <li><strong>Cloud:</strong> AWS (EC2, ECS Fargate, Lambda, VPC, SQS, SNS, S3, DynamoDB, CloudWatch), Azure (ACR, Container Apps, Azure Monitor)</li>
   <li><strong>Orchestration:</strong> Kubernetes</li>
   <li><strong>Infrastructure as Code:</strong> Terraform</li>
   <li><strong>Monitoring:</strong> Grafana, Prometheus, CloudWatch, Azure Monitor</li>
   <li><strong>Automation:</strong> Bash</li>
 </ul>
-
 
 <hr />
 
@@ -29,7 +26,7 @@
   <li>Production-grade two-tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
   <li>Fully automated CI/CD using GitHub Actions, Docker multi-stage builds, CloudWatch + Azure Monitor dashboards</li>
   <li>Validated ALB load balancing with zero-downtime resiliency testing<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">Multi-Cloud</a>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/DEVOPS-ASSIGNMENT" target="_blank">DEVOPS-ASSIGNMENT</a>
   </li>
 </ul>
 
@@ -38,7 +35,7 @@
   <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event-driven architecture</li>
   <li>GitHub Webhooks → Jenkins CI/CD → Docker → Kubernetes automated deployments</li>
   <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops-automation</a>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">cloudops-automation</a>
   </li>
 </ul>
 
@@ -47,7 +44,7 @@
   <li>Serverless image processing solution using AWS Lambda triggered by S3 uploads</li>
   <li>Real-time image resizing and optimization with automatic thumbnail generation</li>
   <li>Cost-effective serverless architecture with zero infrastructure management<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/lambda-image-resizer" target="_blank">Lambda-image-resizer</a>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/aws-lambda-image-resizer" target="_blank">aws-lambda-image-resizer</a>
   </li>
 </ul>
 
