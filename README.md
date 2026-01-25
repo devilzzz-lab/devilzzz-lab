@@ -10,9 +10,9 @@
   <li><strong>Version Control:</strong> Git & GitHub</li>
   <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
   <li><strong>Containerization:</strong> Docker</li>
-  <li><strong>AWS:</strong> EC2, ECS Fargate, Lambda, CloudWatch</li>
-  <li><strong>AWS:</strong> VPC, SQS, SNS, S3, DynamoDB</li>
-  <li><strong>Azure:</strong> ACR, Container Apps, Azure Monitor</li>
+  <li><strong>Cloud:</strong></li>
+  <li>&nbsp;&nbsp;<strong>AWS:</strong> EC2, ECS Fargate, Lambda, VPC, SQS, SNS, S3, DynamoDB, CloudWatch</li>
+  <li>&nbsp;&nbsp;<strong>Azure:</strong> ACR, Container Apps, Azure Monitor</li>
   <li><strong>Orchestration:</strong> Kubernetes</li>
   <li><strong>Infrastructure as Code:</strong> Terraform</li>
   <li><strong>Monitoring:</strong> Grafana, Prometheus, CloudWatch, Azure Monitor</li>
