@@ -22,22 +22,33 @@
 <h2>🏆 Projects & Learning Journey</h2>
 
 <h3>Multi-Cloud Deployment Automation</h3>
-<p>
-Designed and deployed a production-grade two-tier web application (FastAPI backend + Next.js frontend) across AWS and Azure. 
-Implemented complete CI/CD automation using GitHub Actions, containerized services with Docker, provisioned infrastructure 
-using Terraform (AWS ECS Fargate + Azure Container Apps), and configured monitoring dashboards with CloudWatch and Azure Monitor. 
-Validated load balancing and fault tolerance with zero-downtime resiliency testing.
-</p>
+<ul>
+  <li>Designed and deployed a production-grade two-tier web application with FastAPI backend and Next.js frontend</li>
+  <li>Implemented multi-cloud deployment across AWS ECS Fargate and Azure Container Apps</li>
+  <li>Built fully automated CI/CD pipelines using GitHub Actions for zero-touch deployments</li>
+  <li>Provisioned cloud infrastructure using Terraform with remote state management</li>
+  <li>Containerized services with Docker using multi-stage builds and non-root security</li>
+  <li>Configured production-grade monitoring dashboards with CloudWatch and Azure Monitor</li>
+  <li>Set up alerting with email notifications for CPU threshold violations</li>
+  <li>Validated load balancing and fault tolerance with zero-downtime resiliency testing</li>
+</ul>
 
 <h3>CloudOps Automation</h3>
-<p>
-Built a complete DevOps + CloudOps automation workflow using AWS services (S3, DynamoDB, Lambda, SNS, SQS), 
-GitHub Webhooks, Jenkins CI/CD, Docker-based container builds, Kubernetes deployment, centralized logging, 
-and full Prometheus–Grafana monitoring.
-</p>
+<ul>
+  <li>Built end-to-end DevOps automation workflow integrating multiple AWS services</li>
+  <li>Configured GitHub Webhooks to trigger Jenkins CI/CD pipelines automatically</li>
+  <li>Implemented Docker-based container builds and deployments to Kubernetes</li>
+  <li>Integrated AWS Lambda, S3, DynamoDB, SNS, and SQS for event-driven architecture</li>
+  <li>Set up centralized logging for application and infrastructure monitoring</li>
+  <li>Deployed Prometheus and Grafana for real-time metrics visualization</li>
+</ul>
 
 <h3>AWS Lambda Image Resizer</h3>
-<p>Built a serverless image processing solution using AWS Lambda and S3 to automatically resize and optimize uploaded images in real-time.</p>
+<ul>
+  <li>Built serverless image processing solution using AWS Lambda and S3</li>
+  <li>Automated image resizing and optimization triggered by S3 upload events</li>
+  <li>Implemented real-time processing with cost-effective serverless architecture</li>
+</ul>
 
 <hr />
 
