@@ -79,12 +79,5 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-<hr />
-
-<h2>📊 GitHub Stats:</h2>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
 <hr />
