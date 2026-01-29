@@ -23,28 +23,28 @@
 
 <h3>Multi-Cloud Deployment Automation</h3>
 <ul>
-  <li>Production-grade two-tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
-  <li>Fully automated CI/CD using GitHub Actions, Docker multi-stage builds, CloudWatch + Azure Monitor dashboards</li>
+  <li>Production grade two tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
+  <li>Fully automated CI/CD using GitHub Actions, Docker multi stage builds, CloudWatch + Azure Monitor dashboards</li>
   <li>Validated ALB load balancing with zero-downtime resiliency testing<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">Multi-Cloud</a>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">Multi Cloud</a>
   </li>
 </ul>
 
 <h3>CloudOps Automation</h3>
 <ul>
-  <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event-driven architecture</li>
+  <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event driven architecture</li>
   <li>GitHub Webhooks → Jenkins CI/CD → Docker → Kubernetes automated deployments</li>
   <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops-automation</a>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops automation</a>
   </li>
 </ul>
 
 <h3>AWS Lambda Image Resizer</h3>
 <ul>
   <li>Serverless image processing solution using AWS Lambda triggered by S3 uploads</li>
-  <li>Real-time image resizing and optimization with automatic thumbnail generation</li>
-  <li>Cost-effective serverless architecture with zero infrastructure management<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/lambda-image-resizer" target="_blank">Lambda-image-resizer</a>
+  <li>Real time image resizing and optimization with automatic thumbnail generation</li>
+  <li>Cost effective serverless architecture with zero infrastructure management<br/>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/lambda-image-resizer" target="_blank">Lambda image resizer</a>
   </li>
 </ul>
 
