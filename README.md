@@ -21,7 +21,7 @@
 
 <h2>🏆 Projects & Learning Journey</h2>
 
-<h3>Multi-Cloud Deployment Automation</h3>
+<h3>Multi Cloud Deployment Automation</h3>
 <ul>
   <li>Production grade two tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
   <li>Fully automated CI/CD using GitHub Actions, Docker multi stage builds, CloudWatch + Azure Monitor dashboards</li>
