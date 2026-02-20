@@ -39,6 +39,14 @@
   </li>
 </ul>
 
+<h3>Production Debugging Labs</h3>
+<ul>
+  <li>Built a solution repository of 50 real-world production debugging scenarios across Kubernetes, CI/CD, Cloud (AWS/Azure), Monitoring, and SRE domains.</li>
+  <li>Documented step by step debugging workflows, root cause analysis, and production grade fixes with consistent HTML templates.</li>
+  <li>Structured reusable runbooks and troubleshooting guides to simulate on call production incident handling and accelerate SRE skills.<br/>
+      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/production-debugging-labs.git" target="_blank">Production Debugging Labs</a>
+</ul>
+
 <h3>AWS Lambda Image Resizer</h3>
 <ul>
   <li>Serverless image processing solution using AWS Lambda triggered by S3 uploads</li>
