@@ -25,7 +25,7 @@
 <ul>
   <li>Production grade two tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
   <li>Fully automated CI/CD using GitHub Actions, Docker multi stage builds, CloudWatch + Azure Monitor dashboards</li>
-  <li>Validated ALB load balancing with zero-downtime resiliency testing<br/>
+  <li>Validated ALB load balancing & Azure Ingress with zero-downtime resiliency testing<br/>
       <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">Multi Cloud</a>
   </li>
 </ul>
@@ -33,7 +33,7 @@
 <h3>CloudOps Automation</h3>
 <ul>
   <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event driven architecture</li>
-  <li>GitHub Webhooks → Jenkins CI/CD → Docker → Kubernetes automated deployments</li>
+  <li>GitHub Webhooks → Jenkins CI/CD → DockerHub → Kubernetes automated deployments</li>
   <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
       <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops automation</a>
   </li>
