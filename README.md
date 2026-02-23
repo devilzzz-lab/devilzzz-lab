@@ -60,7 +60,6 @@
 
 <h2>Currently Learning</h2>
 <ul>
-  <li>Amazon RDS</li>
   <li>Azure Fundamentals</li>
 </ul>
 
