@@ -33,7 +33,7 @@
 <h3>CloudOps Automation</h3>
 <ul>
   <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event driven architecture</li>
-  <li>GitHub Webhooks → Jenkins CI/CD → DockerHub → Kubernetes automated deployments</li>
+  <li>Local → GitHub Webhooks → Jenkins CI/CD → DockerHub → Kubernetes automated deployments</li>
   <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
       <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops automation</a>
   </li>
