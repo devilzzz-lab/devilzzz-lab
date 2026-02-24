@@ -4,40 +4,30 @@
 
 <hr/>
 
-<div align="left">
-<h2>🔧 Skills & Tools</h2>
+<h2 align="center">🔧 Skills & Tools</h2>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-</div>
-
-<h2>☁️ Cloud Platforms</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
-
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/><br>🐧 Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br>📚 Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" height="40"/><br>⚙️ Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br>🐳 Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="40"/><br>☸️ Kubernetes</td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" height="40"/><br>☁️ AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" height="40"/><br>🔵 Azure</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/><br>🌱 Terraform</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/><br>🐍 Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br>🐙 GitHub</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/><br>📊 Grafana</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/><br>📈 Prometheus</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" height="40"/><br>💻 Bash</td>
+<td colspan="2"></td>
+</tr>
+</table>
 
 <hr/>
 
@@ -82,30 +72,31 @@
 
 <h2 align="left">📚 Currently Learning</h2>
 <ul>
-  <li>Azure Fundamentals</li>
+  <li>Azure Fundamentals (AZ-900)</li>
   <li>Advanced Kubernetes troubleshooting</li>
-  <li>Terraform advanced modules</li>
+  <li>Terraform advanced modules & GitOps</li>
 </ul>
 
 <hr/>
 
 <h2 align="left">🔗 Connect With Me</h2>
 
-<div align="left">
+<div align="center">
    <a href="https://linkedin.com/in/sriramg-s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+   </a>
+   <img width="20"/>
   <a href="mailto:srisuji0814@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-       width="52" height="40" alt="gmail logo" />
-</a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+  <img width="20"/>
   <a href="https://github.com/devilzzz-lab" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-</a>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+  </a>
 </div>
 
 <hr/>
 
 <p align="center">
-  <em>💻 Building production grade DevOps solutions</em>
+  <em>💻 Building production-grade DevOps solutions | 🎯 Kubernetes | Cloud Native | Terraform 🚀</em>
 </p>
