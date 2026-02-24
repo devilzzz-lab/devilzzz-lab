@@ -5,29 +5,17 @@
 <hr/>
 
 <h2 align="center">🔧 Skills & Tools</h2>
-
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/><br>🐧 Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br>📚 Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" height="40"/><br>⚙️ Jenkins</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br>🐳 Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="40"/><br>☸️ Kubernetes</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" height="40"/><br>☁️ AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure" height="40"/><br>🔵 Azure</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/><br>🌱 Terraform</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" height="40"/><br>🐍 Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br>🐙 GitHub</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/><br>📊 Grafana</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/><br>📈 Prometheus</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bash" height="40"/><br>💻 Bash</td>
-<td colspan="2"></td>
-</tr>
-</table>
+<ul>
+  <li><strong>Operating Systems:</strong> Linux, macOS</li>
+  <li><strong>Version Control:</strong> Git & GitHub</li>
+  <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
+  <li><strong>Containerization:</strong> Docker</li>
+  <li><strong>Cloud:</strong> AWS (EC2, ECS Fargate, Lambda, VPC, SQS, SNS, S3, DynamoDB, CloudWatch), Azure (ACR, Container Apps, Azure Monitor)</li>
+  <li><strong>Orchestration:</strong> Kubernetes</li>
+  <li><strong>Infrastructure as Code:</strong> Terraform</li>
+  <li><strong>Monitoring:</strong> Grafana, Prometheus, CloudWatch, Azure Monitor</li>
+  <li><strong>Automation:</strong> Bash</li>
+</ul>
 
 <hr/>
 
@@ -72,15 +60,12 @@
 
 <h2 align="left">📚 Currently Learning</h2>
 <ul>
-  <li>Azure Fundamentals (AZ-900)</li>
   <li>Advanced Kubernetes troubleshooting</li>
-  <li>Terraform advanced modules & GitOps</li>
 </ul>
 
 <hr/>
 
 <h2 align="left">🔗 Connect With Me</h2>
-
 <div align="center">
    <a href="https://linkedin.com/in/sriramg-s" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
@@ -97,6 +82,22 @@
 
 <hr/>
 
+<h2 align="center">💻 Tech Stack</h2>
 <p align="center">
-  <em>💻 Building production-grade DevOps solutions | 🎯 Kubernetes | Cloud Native | Terraform 🚀</em>
+  <img src="https://skillicons.dev/icons?i=py" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
+</p>
+
+<hr/>
+
+<p align="center">
+  <em>💻 Building production grade DevOps solutions</em>
 </p>
