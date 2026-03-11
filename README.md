@@ -94,6 +94,29 @@
 
 <hr/>
 
+<div align="center">
+<h2>📊 GitHub Stats</h2>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
+</div>
+
+<hr/>
+
 <p align="center">
   <em>💻 Building production grade DevOps solutions</em>
 </p>
+
+</body>
+</html>
