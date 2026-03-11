@@ -47,15 +47,6 @@
       <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/production-debugging-labs.git" target="_blank">Production Debugging Labs</a>
 </ul>
 
-<h3>AWS Lambda Image Resizer</h3>
-<ul>
-  <li>Serverless image processing solution using AWS Lambda triggered by S3 uploads</li>
-  <li>Real time image resizing and optimization with automatic thumbnail generation</li>
-  <li>Cost effective serverless architecture with zero infrastructure management<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/lambda-image-resizer" target="_blank">Lambda image resizer</a>
-  </li>
-</ul>
-
 <hr/>
 
 <h2 align="left">📚 Currently Learning</h2>
@@ -65,15 +56,22 @@
 
 <hr/>
 
-<h2 align="left">🔗 Connect With Me</h2>
 <div align="center">
-   <a href="https://linkedin.com/in/sriramg-s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-   </a>
-   <img width="20"/>
-  <a href="mailto:srisuji0814@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
+<h2>📊 GitHub Stats</h2>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
 </div>
 
 <hr/>
@@ -94,22 +92,15 @@
 
 <hr/>
 
+<h2 align="left">🔗 Connect With Me</h2>
 <div align="center">
-<h2>📊 GitHub Stats</h2>
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
+   <a href="https://linkedin.com/in/sriramg-s" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+   </a>
+   <img width="20"/>
+  <a href="mailto:srisuji0814@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
 </div>
 
 <hr/>
