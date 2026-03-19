@@ -20,7 +20,7 @@ name       : Sriram G
 role       : DevOps Engineer (Student)
 focus      : Cloud Infrastructure · CI/CD · Container Orchestration
 currently  : Advanced Kubernetes Troubleshooting
-goal       : Building production-grade DevOps solutions
+goal       : Building production grade DevOps solutions
 ```
 
 ---
@@ -61,13 +61,13 @@ goal       : Building production-grade DevOps solutions
 ## 🚀 Projects
 
 ### ☁️ Multi-Cloud Deployment Automation
-> *Production-grade two-tier app deployed across AWS and Azure using Terraform IaC*
+> *Production grade two tier app deployed across AWS and Azure using Terraform IaC*
 
 | Area | Detail |
 |------|--------|
 | **Cloud** | AWS ECS Fargate + Azure Container Apps |
-| **IaC** | Terraform (multi-cloud) |
-| **CI/CD** | GitHub Actions + Docker multi-stage builds |
+| **IaC** | Terraform (multi cloud) |
+| **CI/CD** | GitHub Actions + Docker multi stage builds |
 | **Monitoring** | CloudWatch + Azure Monitor dashboards |
 | **Resiliency** | ALB load balancing & Azure Ingress, zero-downtime tested |
 
@@ -76,11 +76,11 @@ goal       : Building production-grade DevOps solutions
 ---
 
 ### ⚙️ CloudOps Automation
-> *Full DevOps pipeline with event-driven AWS architecture + Kubernetes deployments*
+> *Full DevOps pipeline with event driven AWS architecture + Kubernetes deployments*
 
 | Area | Detail |
 |------|--------|
-| **Architecture** | AWS Lambda + S3 + DynamoDB + SNS/SQS (event-driven) |
+| **Architecture** | AWS Lambda + S3 + DynamoDB + SNS/SQS (event driven) |
 | **Pipeline** | Local → GitHub Webhooks → Jenkins → DockerHub → Kubernetes |
 | **Monitoring** | Prometheus + Grafana stack + centralized logging |
 
@@ -89,13 +89,13 @@ goal       : Building production-grade DevOps solutions
 ---
 
 ### 🔬 Production Debugging Labs
-> *50 real-world production debugging scenarios — built like actual on-call runbooks*
+> *50 real world production debugging scenarios — built like actual on call runbooks*
 
 | Area | Detail |
 |------|--------|
 | **Scope** | Kubernetes · CI/CD · AWS · Azure · Monitoring · SRE |
-| **Format** | Step-by-step RCA + production-grade fixes + HTML templates |
-| **Purpose** | Simulate on-call incident handling · Accelerate SRE skills |
+| **Format** | Step by step RCA + production grade fixes + HTML templates |
+| **Purpose** | Simulate on call incident handling · Accelerate SRE skills |
 
 [![Repo](https://img.shields.io/badge/View_Repo-Debugging_Labs-181717?style=for-the-badge&logo=github)](https://github.com/devilzzz-lab/production-debugging-labs)
 
@@ -126,6 +126,6 @@ goal       : Building production-grade DevOps solutions
 
 <div align="center">
 
-*💻 Building production-grade DevOps solutions — one pipeline at a time.*
+*💻 Building production grade DevOps solutions*
 
 </div>
