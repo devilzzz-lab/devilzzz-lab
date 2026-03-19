@@ -1,113 +1,131 @@
-<h1 align="center">Hi there, I'm Sriram G 👋</h1>
-
-<p align="center"><strong>3rd Year Computer Science Student | Aspiring DevOps Engineer</strong></p>
-
-<hr/>
-
-<h2 align="center">🔧 Skills & Tools</h2>
-<ul>
-  <li><strong>Operating Systems:</strong> Linux, macOS</li>
-  <li><strong>Version Control:</strong> Git & GitHub</li>
-  <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
-  <li><strong>Containerization:</strong> Docker</li>
-  <li><strong>Cloud:</strong> AWS (EC2, ECS Fargate, Lambda, VPC, SQS, SNS, S3, DynamoDB, CloudWatch), Azure (ACR, Container Apps, Azure Monitor)</li>
-  <li><strong>Orchestration:</strong> Kubernetes</li>
-  <li><strong>Infrastructure as Code:</strong> Terraform</li>
-  <li><strong>Monitoring:</strong> Grafana, Prometheus, CloudWatch, Azure Monitor</li>
-  <li><strong>Automation:</strong> Bash</li>
-</ul>
-
-<hr/>
-
-<h2 align="left">🏆 Projects & Learning Journey</h2>
-
-<h3>Multi Cloud Deployment Automation</h3>
-<ul>
-  <li>Production grade two tier app deployed across AWS ECS Fargate + Azure Container Apps with Terraform IaC</li>
-  <li>Fully automated CI/CD using GitHub Actions, Docker multi stage builds, CloudWatch + Azure Monitor dashboards</li>
-  <li>Validated ALB load balancing & Azure Ingress with zero-downtime resiliency testing<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/Devops-Assignment" target="_blank">Multi Cloud</a>
-  </li>
-</ul>
-
-<h3>CloudOps Automation</h3>
-<ul>
-  <li>Complete DevOps pipeline with AWS Lambda, S3, DynamoDB, SNS/SQS event driven architecture</li>
-  <li>Local → GitHub Webhooks → Jenkins CI/CD → DockerHub → Kubernetes automated deployments</li>
-  <li>Prometheus + Grafana monitoring stack with centralized logging<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/cloudops-automation" target="_blank">Cloudops automation</a>
-  </li>
-</ul>
-
-<h3>Production Debugging Labs</h3>
-<ul>
-  <li>Built a solution repository of 50 real world production debugging scenarios across Kubernetes, CI/CD, Cloud (AWS/Azure), Monitoring, and SRE domains.</li>
-  <li>Documented step by step debugging workflows, root cause analysis, and production grade fixes with consistent HTML templates.</li>
-  <li>Structured reusable runbooks and troubleshooting guides to simulate on call production incident handling and accelerate SRE skills.<br/>
-      <strong>Repo:</strong> <a href="https://github.com/devilzzz-lab/production-debugging-labs.git" target="_blank">Production Debugging Labs</a>
-</ul>
-
-<hr/>
-
-<h2 align="left">📚 Currently Learning</h2>
-<ul>
-  <li>Advanced Kubernetes troubleshooting</li>
-</ul>
-
-<hr/>
-
 <div align="center">
-<h2>📊 GitHub Stats</h2>
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
-</td>
-</tr>
-</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%" alt="Streak Stats"/>
+# `$ whoami` — Sriram G
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
+### Aspiring DevOps Engineer · 3rd Year CS Student
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sriramg--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramg-s)
+[![Gmail](https://img.shields.io/badge/Gmail-srisuji0814-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisuji0814@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-devilzzz--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devilzzz-lab)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge)
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
-</p>
+## 🧠 About Me
 
-<hr/>
+```yaml
+name       : Sriram G
+role       : DevOps Engineer (Student)
+focus      : Cloud Infrastructure · CI/CD · Container Orchestration
+currently  : Advanced Kubernetes Troubleshooting
+goal       : Building production-grade DevOps solutions
+```
 
-<h2 align="left">🔗 Connect With Me</h2>
+---
+
+## 🛠️ Skills & Tools
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**AWS:** `EC2` `ECS Fargate` `Lambda` `VPC` `SQS` `SNS` `S3` `DynamoDB` `CloudWatch`  
+**Azure:** `ACR` `Container Apps` `Azure Monitor`
+
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 🔁 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+### ⚙️ Automation & OS
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### ☁️ Multi-Cloud Deployment Automation
+> *Production-grade two-tier app deployed across AWS and Azure using Terraform IaC*
+
+| Area | Detail |
+|------|--------|
+| **Cloud** | AWS ECS Fargate + Azure Container Apps |
+| **IaC** | Terraform (multi-cloud) |
+| **CI/CD** | GitHub Actions + Docker multi-stage builds |
+| **Monitoring** | CloudWatch + Azure Monitor dashboards |
+| **Resiliency** | ALB load balancing & Azure Ingress, zero-downtime tested |
+
+[![Repo](https://img.shields.io/badge/View_Repo-Multi_Cloud-181717?style=for-the-badge&logo=github)](https://github.com/devilzzz-lab/Devops-Assignment)
+
+---
+
+### ⚙️ CloudOps Automation
+> *Full DevOps pipeline with event-driven AWS architecture + Kubernetes deployments*
+
+| Area | Detail |
+|------|--------|
+| **Architecture** | AWS Lambda + S3 + DynamoDB + SNS/SQS (event-driven) |
+| **Pipeline** | Local → GitHub Webhooks → Jenkins → DockerHub → Kubernetes |
+| **Monitoring** | Prometheus + Grafana stack + centralized logging |
+
+[![Repo](https://img.shields.io/badge/View_Repo-CloudOps-181717?style=for-the-badge&logo=github)](https://github.com/devilzzz-lab/cloudops-automation)
+
+---
+
+### 🔬 Production Debugging Labs
+> *50 real-world production debugging scenarios — built like actual on-call runbooks*
+
+| Area | Detail |
+|------|--------|
+| **Scope** | Kubernetes · CI/CD · AWS · Azure · Monitoring · SRE |
+| **Format** | Step-by-step RCA + production-grade fixes + HTML templates |
+| **Purpose** | Simulate on-call incident handling · Accelerate SRE skills |
+
+[![Repo](https://img.shields.io/badge/View_Repo-Debugging_Labs-181717?style=for-the-badge&logo=github)](https://github.com/devilzzz-lab/production-debugging-labs)
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-   <a href="https://linkedin.com/in/sriramg-s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-   </a>
-   <img width="20"/>
-  <a href="mailto:srisuji0814@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=devilzzz-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilzzz-lab&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilzzz-lab&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true" width="90%"/>
+
 </div>
 
-<hr/>
+---
 
-<p align="center">
-  <em>💻 Building production grade DevOps solutions</em>
-</p>
+## 📚 Currently Learning
 
-</body>
-</html>
+![Kubernetes](https://img.shields.io/badge/Advanced_Kubernetes_Troubleshooting-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+> Diving deep into cluster debugging, network policies, and production incident response.
+
+---
+
+<div align="center">
+
+*💻 Building production-grade DevOps solutions — one pipeline at a time.*
+
+</div>
