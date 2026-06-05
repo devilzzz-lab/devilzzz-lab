@@ -2,7 +2,7 @@
 
 # `$ whoami` — Sriram G
 
-### Aspiring DevOps Engineer · 3rd Year CS Student
+### Aspiring DevOps Engineer · Final Year CS Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sriramg--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramg-s)
 [![Gmail](https://img.shields.io/badge/Gmail-srisuji0814-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisuji0814@gmail.com)
