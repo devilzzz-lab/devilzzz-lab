@@ -31,7 +31,7 @@ goal       : Building production grade DevOps solutions
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**AWS:** `EC2` `ECS Fargate` `Lambda` `VPC` `SQS` `SNS` `S3` `DynamoDB` `CloudWatch`  
+**AWS:** `EC2` `ECS Fargate` `ECR` `Lambda` `VPC` `SQS` `SNS` `S3` `DynamoDB` `CloudWatch` `Route 53` `EBS` `EFS` `RDS` 
 **Azure:** `ACR` `Container Apps` `Azure Monitor`
 
 ### 📦 Containers & Orchestration
