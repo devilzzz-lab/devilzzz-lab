@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
+██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
+██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
+██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
+██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
+╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
+```
+
 # `$ whoami` — Sriram G
 
 ### Aspiring DevOps Engineer · Final Year CS Student
@@ -116,13 +125,6 @@ goal       : Building production grade DevOps solutions
 
 ---
 
-## 📚 Currently Learning
-
-![Kubernetes](https://img.shields.io/badge/Advanced_Kubernetes_Troubleshooting-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-> Diving deep into cluster debugging, network policies, and production incident response.
-
----
 
 <div align="center">
 
