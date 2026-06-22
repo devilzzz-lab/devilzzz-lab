@@ -38,14 +38,18 @@ goal       : Building production grade DevOps solutions
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+**AWS:** `EC2` `ECS` `ECR` `Lambda` `VPC` `SQS` `SNS` `S3` `DynamoDB` `CloudWatch` `Route 53` `EBS` `EFS` `RDS`
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**AWS:** `EC2` `ECS Fargate` `ECR` `Lambda` `VPC` `SQS` `SNS` `S3` `DynamoDB` `CloudWatch` `Route 53` `EBS` `EFS` `RDS` 
 **Azure:** `ACR` `Container Apps` `Azure Monitor`
 
 ### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 ### 🔁 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -124,7 +128,6 @@ goal       : Building production grade DevOps solutions
 </div>
 
 ---
-
 
 <div align="center">
 
