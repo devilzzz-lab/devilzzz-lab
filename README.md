@@ -11,11 +11,12 @@
 
 # `$ whoami` — Sriram G
 
-### Certified Kubernetes Administrator - DevOps Engineer · Final Year CS Student
+### Certified Kubernetes Administrator · DevOps Engineer · Final Year CS Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sriramg--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramg-s)
 [![Gmail](https://img.shields.io/badge/Gmail-srisuji0814-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisuji0814@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-devilzzz--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devilzzz-lab)
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/f82e8846-cfc4-49b6-a82d-f1b1c32992d6/public_url)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge)
 
 </div>
@@ -28,7 +29,7 @@
 name       : Sriram G
 role       : DevOps Engineer (Student)
 focus      : Cloud Infrastructure · CI/CD · Container Orchestration
-currently  : Advanced Terraform Concepts
+currently  : Advanced Kubernetes Troubleshooting
 goal       : Building production grade DevOps solutions
 ```
 
