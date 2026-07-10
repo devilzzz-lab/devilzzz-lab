@@ -68,7 +68,7 @@
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 `EC2` `ECS` `ECR` `Lambda` `VPC` `SQS` `SNS`
-`S3` `DynamoDB` `CloudWatch` `Route 53`
+`S3` `DynamoDB` `CloudWatch` `Route53`
 `EBS` `EFS` `RDS` `ALB` `NAT Gateway`
 
 </td>
