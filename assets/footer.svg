@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Terminal deploy footer animation</title>
+<defs>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00ff41" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="160" fill="#000000"/>
+<rect x="0" y="0" width="1200" height="160" fill="none" stroke="#00ff41" stroke-opacity="0.25" stroke-width="2"/>
+
+<rect x="0" y="0" width="120" height="160" fill="url(#scan)">
+  <animateTransform attributeName="transform" type="translate" from="-120,0" to="1200,0" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<g font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#00ff41">
+  <text x="60" y="50">$ kubectl apply -f deployment.yaml</text>
+  <text x="60" y="80" opacity="0.85">deployment.apps/backend-service configured</text>
+  <text x="60" y="110" opacity="0.7">pod/backend-service-7f9c rolling update... </text>
+  <rect x="470" y="97" width="12" height="18" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<text x="1140" y="140" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00ff41" opacity="0.75">Building production-grade DevOps systems • Open to Full-Time Roles</text>
+</svg>
