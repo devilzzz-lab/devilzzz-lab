@@ -60,7 +60,7 @@ If it's not written down, it didn't happen. I runbook everything — future me (
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="assets/late-night-coding.gif" width="100%"/>
+<img src="assets/work-24-7.gif" width="100%"/>
 
 **The Late-Night Reader**
 Most of my real learning happens after midnight — deep in documentation, RFCs, and other people's post-mortems and case studies. That's usually where the good ideas actually come from.
@@ -173,19 +173,6 @@ RCA + Fixes · K8s/CI-CD/AWS/Azure · SRE style
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=326CE5&line=326CE5&point=FF6B35" width="100%"/>
 </div>
 
----
-
-## 🎮 Off the Clock
-
-<table width="100%">
-<tr>
-<td width="33%" align="center"><img src="assets/octocat-build.gif" width="100%"/></td>
-<td width="33%" align="center"><img src="assets/mario-pixel-room.gif" width="100%"/></td>
-<td width="33%" align="center"><img src="assets/work-24-7.gif" width="100%"/></td>
-</tr>
-</table>
-
-<sub>🎮 Also: definitely spent more hours in Mario than I'll admit in an interview.</sub>
 
 ---
 
