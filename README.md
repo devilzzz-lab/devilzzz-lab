@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/golden-hour-terminal.gif" width="100%"/>
+<img src="assets/night-city-loop.gif" width="90%"/>
 </div>
 
 <div align="center">
@@ -46,8 +46,8 @@
 
 <img src="assets/curious-coder-desk.gif" width="100%"/>
 
-**The Curious One**
-Started out breaking things on purpose just to learn how they're put back together. Still do that — just with clusters now instead of old laptops.
+**The Debugger**
+I genuinely love debugging problems in my own tools — chasing a weird pod crash or a broken pipeline down to the exact root cause is my kind of fun.
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -63,13 +63,15 @@ If it's not written down, it didn't happen. I runbook everything — future me (
 <img src="assets/work-24-7.gif" width="100%"/>
 
 **The Late-Night Reader**
-Most of my real learning happens after midnight — deep in documentation, RFCs, and other people's post-mortems and case studies. That's usually where the good ideas actually come from.
+Most of my real learning happens after midnight — deep in documentation, RFCs, and case studies. That's usually where the good ideas actually come from.
 
 </td>
 </tr>
 </table>
 
-> Final-year CS student who somehow ended up more excited about `kubectl describe pod` than most people are about actual games. Currently deep in Terraform/Terragrunt territory, chasing the "can I make this infra self-healing" itch. Not just a Kubernetes person — I like the whole mess: networking, IAM, CI/CD, the 2am alert that turns into a good story later.
+<p align="center">
+<b>Final-year CS student</b> who somehow ended up more excited about <code>kubectl describe pod</code> than most people are about actual games. Currently deep in Terraform/Terragrunt territory, chasing the "can I make this infra self-healing" itch. Not just a Kubernetes person — I like the whole mess: networking, IAM, CI/CD, the 2am alert that turns into a good story later.
+</p>
 
 ---
 
@@ -85,12 +87,13 @@ Most of my real learning happens after midnight — deep in documentation, RFCs,
 
 <table width="100%">
 <tr>
-<td width="16%" align="center"><b>☁️ AWS</b><br/><sub>EKS · EC2 · ECR · Lambda<br/>VPC · RDS · S3 · IAM</sub></td>
-<td width="16%" align="center"><b>☁️ Azure</b><br/><sub>ACR · Container Apps<br/>Azure Monitor</sub></td>
-<td width="17%" align="center"><b>📦 Containers</b><br/><sub>Docker · Kubernetes<br/>Helm · ArgoCD</sub></td>
-<td width="17%" align="center"><b>🏗️ IaC</b><br/><sub>Terraform<br/>Terragrunt</sub></td>
-<td width="17%" align="center"><b>🔁 CI/CD</b><br/><sub>GitHub Actions<br/>Jenkins</sub></td>
-<td width="17%" align="center"><b>📊 Observability</b><br/><sub>Prometheus · Grafana<br/>CloudWatch</sub></td>
+<td width="14%" align="center"><b>☁️ AWS</b><br/><sub>EKS · EC2 · ECR · Lambda<br/>VPC · RDS · S3 · IAM</sub></td>
+<td width="14%" align="center"><b>☁️ Azure</b><br/><sub>ACR · Container Apps<br/>Azure Monitor</sub></td>
+<td width="15%" align="center"><b>📦 Containers</b><br/><sub>Docker · Kubernetes<br/>Helm · ArgoCD</sub></td>
+<td width="14%" align="center"><b>🏗️ IaC</b><br/><sub>Terraform<br/>Terragrunt</sub></td>
+<td width="14%" align="center"><b>🔁 CI/CD</b><br/><sub>GitHub Actions<br/>Jenkins</sub></td>
+<td width="14%" align="center"><b>📊 Observability</b><br/><sub>Prometheus · Grafana<br/>CloudWatch</sub></td>
+<td width="15%" align="center"><b>⚙️ Automation & OS</b><br/><sub>Linux · Bash<br/>macOS</sub></td>
 </tr>
 </table>
 
@@ -173,10 +176,9 @@ RCA + Fixes · K8s/CI-CD/AWS/Azure · SRE style
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilzzz-lab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=326CE5&line=326CE5&point=FF6B35" width="100%"/>
 </div>
 
-
 ---
 
 <div align="center">
-<img src="assets/night-city-loop.gif" width="100%"/>
+<img src="assets/mario-pixel-room.gif" width="100%"/>
 <sub>Building production-grade DevOps solutions • Open to Full-Time Roles</sub>
 </div>
